@@ -1,0 +1,12 @@
+{
+  "name": "entix-shared",
+  "version": "0.0.0",
+  "description": "Entix shared packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David M. Chen",
+  "license": "ISC"
+}
